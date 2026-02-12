@@ -5,3 +5,6 @@ echo helo
 echo chandu chowdary
 echo sai
 echo chowdary
+he
+helo
+ek
